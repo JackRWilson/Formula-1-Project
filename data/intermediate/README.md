@@ -1,3 +1,14 @@
+# Content Navigation
+
+- [overview](../../README.md) - Project overview
+
+- [data](../../data/README.md) - All datasets used in the project
+  - [raw](../../data/raw/README.md) - Unprocessed scraped data
+  - [intermediate](../../data/intermediate/README.md) - Merged or cleaned transitional data
+  - [final](../../data/final/README.md) - Final datasets used for analysis
+- [docs](../../docs/README.md) - Project proposal, final report, and presentation materials
+- [notebooks](../../notebooks/README.md) - Jupyter Notebook for scraping, cleaning, and modeling
+
 # Intermediate CSVs
 
 This folder contains intermediate CSVs generated during the data processing phase — these files are typically cleaned, combined, or enriched versions of the raw data, used as inputs to further analysis.
