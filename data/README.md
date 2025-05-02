@@ -9,6 +9,13 @@
 - [docs](../docs/README.md) - Project proposal, final report, and presentation materials
 - [notebooks](../notebooks/README.md) - Jupyter Notebook for scraping, cleaning, and modeling
 
+# Page Contents
+
+- [Folder Overview](#Folder-Overview)
+- [Data Overview](#Data-Overview)
+  - [Final Analysis Data](#Final-Analysis-Data)
+  - [Data Dictionary](#Data-Dictionary)
+
 # Folder Overview
 
 This folder contains the various stages of CSVs used in the analysis and cleaning process.
