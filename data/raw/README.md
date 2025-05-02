@@ -9,6 +9,10 @@
 - [docs](../../docs/README.md) - Project proposal, final report, and presentation materials
 - [notebooks](../../notebooks/README.md) - Jupyter Notebook for scraping, cleaning, and modeling
 
+# Page Contents
+
+- [Raw CSVs](#Raw-CSVs)
+
 # Raw CSVs
 
 This folder contains raw CSVs directly from scraping. These files were all merged together to create a raw and unclean dataframe.
