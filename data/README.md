@@ -1,10 +1,20 @@
 
-# Intermediate CSVs
+# Folder Overview
 
 This folder contains the various stages of CSVs used in the analysis and cleaning process.
 
-| Folder                   | Description                                                                                                   | Columns                                      |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------|
-| raw | Driver ranks for each season, used to merge into the final analysis dataset                                   | `year`, `season_rank`, `driver`              |
-| intermediate | Raw end position split into end position and position status, used to merge into raw dataset                  | `race_url`, `raw_end_position`, `end_position`, `position_status`, `driver`, `team_name`, `laps_completed`, `time_gap`, `points` |
-| final | Fully merged but unclean dataframe, merging winners, results, starts, fastest laps, pit info, and driver info |
+| Folder       | Description                                                                  |
+| ------------ | ---------------------------------------------------------------------------- |
+| raw          | Raw files from scraping                                                      |
+| intermediate | Files that have been altered or enriched, used later in the analysis process |
+| final        | Clean and analysis ready files                                               |
+
+# Data Overview
+
+All data was scraped from the [Official F1 Results Website](https://www.formula1.com/en/results/2025/races)
+
+Data was scraped from all races years 1950 - 2024
+
+## Final Analysis Data
+
+The final analysis data contains 
