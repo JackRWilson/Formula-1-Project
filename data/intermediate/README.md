@@ -9,6 +9,10 @@
 - [docs](../../docs/README.md) - Project proposal, final report, and presentation materials
 - [notebooks](../../notebooks/README.md) - Jupyter Notebook for scraping, cleaning, and modeling
 
+# Page Contents
+
+- [Intermediate CSVs](#Intermediate-CSVs)
+
 # Intermediate CSVs
 
 This folder contains intermediate CSVs generated during the data processing phase — these files are typically cleaned, combined, or enriched versions of the raw data, used as inputs to further analysis.
