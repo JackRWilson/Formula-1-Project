@@ -1,6 +1,6 @@
 # Content Navigation
 
-- [overview](/README.md) - Project overview
+- [overview](../README.md) - Project overview
 
 - [data](data/README.md) - All datasets used in the project
   - [raw](data/raw/README.md) - Unprocessed scraped data
