@@ -9,6 +9,10 @@
 - [docs](../docs/README.md) - Project proposal, final report, and presentation materials
 - **notebooks - Jupyter Notebook for scraping, cleaning, and modeling**
 
+# Page Contents
+
+- [Notebook Overview](#Notebook-Overview)
+
 # Notebook Overview
 
 This folder contains any notebooks related to scraping, cleaning, and analysis
