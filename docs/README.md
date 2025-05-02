@@ -12,7 +12,7 @@
 # Page Contents
 
 - [Docs Overview](#Docs-Overview)
-- [Proposal / Check-in Challenges](#Proposal-/-Check-in-Challenges)
+- [Proposal / Check-in Challenges](#Proposal--Check-in-Challenges)
 
 # Docs Overview
 
