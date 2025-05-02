@@ -1,11 +1,11 @@
 # Content Navigation
 
-- [data](data/README.md)
-  - [raw](data/raw/README.md)
-  - [intermediate](data/intermediate/README.md)
-  - [final](data/final/README.md)
-- [docs](docs/README.md)
-- [notebooks](notebooks/README.md)
+- [data](data/README.md) – All datasets used in the project
+  - [raw](data/raw/README.md) – Unprocessed scraped data
+  - [intermediate](data/intermediate/README.md) – Merged or cleaned transitional data
+  - [final](data/final/README.md) – Final datasets used for analysis
+- [docs](docs/README.md) – Project proposal, final report, and presentation materials
+- [notebooks](notebooks/README.md) – Jupyter Notebook for scraping, cleaning, and modeling
 
 # Project Overview
 
