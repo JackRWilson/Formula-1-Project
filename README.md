@@ -9,6 +9,10 @@
 - [docs](docs/README.md) - Project proposal, final report, and presentation materials
 - [notebooks](notebooks/README.md) - Jupyter Notebook for scraping, cleaning, and modeling
 
+# Page Contents
+
+# Project Overview
+
 # Project Overview
 
 Formula 1 (F1) is a motorsport competition in which ten teams (constructors), each with two drivers, compete against each other in a series of races to earn points that determine individual and team standings.
