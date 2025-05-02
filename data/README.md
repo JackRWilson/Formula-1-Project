@@ -2,7 +2,7 @@
 
 - [overview](../README.md) - Project overview
 
-- [data](../data/README.md) - All datasets used in the project
+- **data - All datasets used in the project**
   - **raw - Unprocessed scraped data**
   - [intermediate](../data/intermediate/README.md) - Merged or cleaned transitional data
   - [final](../data/final/README.md) - Final datasets used for analysis
