@@ -12,11 +12,11 @@ This project aims to compile and analyze historical F1 data to uncover performan
 
 This repository contains 3 main folders: data, docs, and notebooks.
 
-| Folder | Description | README |
-| ------ | ------ | ------ |
-| `data` | Contains all raw, intermediate, and final CSV files used for machine learning and other analysis | [data](data/README.md)
-| `docs` | Contains proposal, check-in, and final report documents | [docs](docs/README.md)
-| `notebooks` | Contains the Jupyter Notebook used for scraping, cleaning, and analysis | [notebooks](notebooks/README.md)
+| Folder      | Description                                                                                      | README                           |
+| ----------- | ------------------------------------------------------------------------------------------------ | -------------------------------- |
+| `data`      | Contains all raw, intermediate, and final CSV files used for machine learning and other analysis | [data](data/README.md)           |
+| `docs`      | Contains proposal, check-in, and final report documents                                          | [docs](docs/README.md)           |
+| `notebooks` | Contains the Jupyter Notebook used for scraping, cleaning, and analysis                          | [notebooks](notebooks/README.md) |
 
 # Data Overview
 
