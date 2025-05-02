@@ -9,6 +9,11 @@
 - **docs - Project proposal, final report, and presentation materials**
 - [notebooks](../notebooks/README.md) - Jupyter Notebook for scraping, cleaning, and modeling
 
+# Page Contents
+
+- [Docs Overview](#Docs-Overview)
+- [Proposal / Check-in Challenges](#Proposal-/-Check-in-Challenges)
+
 # Docs Overview
 
 This folder contains the various documents used in the project.
