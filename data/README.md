@@ -3,11 +3,11 @@
 
 This folder contains the various stages of CSVs used in the analysis and cleaning process.
 
-| Folder         | Description                                                                  |
-| -------------- | ---------------------------------------------------------------------------- |
-| `raw`          | Raw files from scraping                                                      |
-| `intermediate` | Files that have been altered or enriched, used later in the analysis process |
-| `final`        | Clean and analysis ready files                                               |
+| Folder         | Description                                                                  | README                                      |
+| -------------- | ---------------------------------------------------------------------------- | ------------------------------------------- |
+| `raw`          | Raw files from scraping                                                      | [raw](data/raw/README.md)                   |
+| `intermediate` | Files that have been altered or enriched, used later in the analysis process | [intermediate](data/intermediate/README.md) |
+| `final`        | Clean and analysis ready files                                               | [final](data/final/README.md)               |
 
 # Data Overview
 
