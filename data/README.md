@@ -15,7 +15,7 @@ This folder contains the various stages of CSVs used in the analysis and cleanin
 
 - Data was scraped from all races years 1950 - 2024
 
-- Specific scraping links can be found in the raw folder README
+- Specific scraping links can be found in the [raw folder README](data/raw/README.md)
 
 ### Final Analysis Data
 
