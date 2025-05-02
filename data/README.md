@@ -40,55 +40,55 @@ This folder contains the various stages of CSVs used in the analysis and cleanin
 
 ### Data Dictionary
 
-| Column                    | Description                                                              |
-| ------------------------- | ------------------------------------------------------------------------ |
-| `year`                    | The season year                                                          |
-| `driver`                  | Driver name                                                              |
-| `team_name`               | Name of the constructor/team                                             |
-| `continent`               | Continent of the driver                                                  |
-| `season_rank`             | Driver’s final rank in the season                                        |
-| `avg_start_pos`           | Average start position across the season                                 |
-| `std_start_pos`           | Standard deviation of starting positions                                 |
-| `best_start_pos`          | Best start position                                                      |
-| `worst_start_pos`         | Worst start position                                                     |
-| `races_participated`      | Number of races competed in                                              |
-| `avg_finish_pos`          | Average finishing position                                               |
-| `std_finish_pos`          | Standard deviation of finishing positions                                |
-| `best_finish_pos`         | Best race finish                                                         |
-| `worst_finish_pos`        | Worst race finish                                                        |
-| `total_pos_gain`          | Total positions gained from start to finish across all races             |
-| `avg_pos_gain`            | Average position gain per race                                           |
-| `total_points`            | Total points scored                                                      |
-| `avg_points_per_race`     | Average points scored per race                                           |
-| `total_pct_season_points` | Percentage of total available season points earned                       |
-| `avg_pct_season_points`   | Average percentage of available season points per race                   |
-| `worst_pct_season_points` | Lowest points percentage in a race                                       |
-| `best_pct_season_points`  | Highest points percentage in a race                                      |
-| `total_laps_completed`    | Number of laps completed                                                 |
-| `total_laps`              | Total laps possible                                                      |
-| `total_fastest_laps`      | Number of fastest laps earned                                            |
-| `CLAS_total`              | Number of classified finishes                                            |
-| `DNF_total`               | Number of Did Not Finish results                                         |
-| `DNS_total`               | Number of Did Not Start results                                          |
-| `DQ_total`                | Number of Disqualified results                                           |
-| `NC_total`                | Number of Not Classified results                                         |
-| `backmarker`              | Backmarker indication                                                    |
-| `midfield`                | Midfielder indication                                                    |
-| `podium_regular`          | Podium regular indication                                                |
-| `points_regular`          | Points regular indication                                                |
-| `years_experience`        | Number of years the driver has competed in                               |
-| `total_podium_finishes`   | Total podium finishes in the season                                      |
-| `total_points_finishes`   | Total points finishes in the season                                      |
-| `dnf_rate`                | Percentage of DNFs over races entered                                    |
-| `finish_rate`             | Percentage of races finished                                             |
-| `lap_completion_rate`     | Percentage of laps completed                                             |
-| `fastest_lap_rate`        | Fastest laps as a percentage of races entered                            |
-| `podium_rate`             | Podium finishes as a percentage of races entered                         |
-| `points_rate`             | Points finishes as a percentage of races entered                         |
-| `consistency_score`       | Consistency in finish positions                                          |
-| `qualifying_consistency`  | Consistency in start positions                                           |
-| `reliability_score`       | Measures a drivers finish rate with lap completion rate                  |
-| `qualifying_vs_race`      | Comparison of qualifying vs finishing positions                          |
-| `championship_impact`     | How strongly the driver contributed to the championship outcome          |
-| `race_improvement`        | Average improvement from start to finish positions                       |
-| `driver_retained`         | Whether the driver was retained by the team for the next season          |
+| Column                    | Description                                                              | Type    |
+| ------------------------- | ------------------------------------------------------------------------ | ------- |
+| `year`                    | The season year                                                          | Numeric |
+| `driver`                  | Driver name                                                              | Text    |
+| `team_name`               | Name of the constructor/team                                             | Text    |
+| `continent`               | Continent of the driver                                                  | Text    |
+| `season_rank`             | Driver’s final rank in the season                                        | Numeric |
+| `avg_start_pos`           | Average start position across the season                                 | Numeric |
+| `std_start_pos`           | Standard deviation of starting positions                                 | Numeric |
+| `best_start_pos`          | Best start position                                                      | Numeric |
+| `worst_start_pos`         | Worst start position                                                     | Numeric |
+| `races_participated`      | Number of races competed in                                              | Numeric |
+| `avg_finish_pos`          | Average finishing position                                               | Numeric |
+| `std_finish_pos`          | Standard deviation of finishing positions                                | Numeric |
+| `best_finish_pos`         | Best race finish                                                         | Numeric |
+| `worst_finish_pos`        | Worst race finish                                                        | Numeric |
+| `total_pos_gain`          | Total positions gained from start to finish across all races             | Numeric |
+| `avg_pos_gain`            | Average position gain per race                                           | Numeric |
+| `total_points`            | Total points scored                                                      | Numeric |
+| `avg_points_per_race`     | Average points scored per race                                           | Numeric |
+| `total_pct_season_points` | Percentage of total available season points earned                       | Numeric |
+| `avg_pct_season_points`   | Average percentage of available season points per race                   | Numeric |
+| `worst_pct_season_points` | Lowest points percentage in a race                                       | Numeric |
+| `best_pct_season_points`  | Highest points percentage in a race                                      | Numeric |
+| `total_laps_completed`    | Number of laps completed                                                 | Numeric |
+| `total_laps`              | Total laps possible                                                      | Numeric |
+| `total_fastest_laps`      | Number of fastest laps earned                                            | Numeric |
+| `CLAS_total`              | Number of classified finishes                                            | Numeric |
+| `DNF_total`               | Number of Did Not Finish results                                         | Numeric |
+| `DNS_total`               | Number of Did Not Start results                                          | Numeric |
+| `DQ_total`                | Number of Disqualified results                                           | Numeric |
+| `NC_total`                | Number of Not Classified results                                         | Numeric |
+| `backmarker`              | Backmarker indication                                                    | Bool    |
+| `midfield`                | Midfielder indication                                                    | Bool    |
+| `podium_regular`          | Podium regular indication                                                | Bool    |
+| `points_regular`          | Points regular indication                                                | Bool    |
+| `years_experience`        | Number of years the driver has competed in                               | Numeric |
+| `total_podium_finishes`   | Total podium finishes in the season                                      | Numeric |
+| `total_points_finishes`   | Total points finishes in the season                                      | Numeric |
+| `dnf_rate`                | Percentage of DNFs over races entered                                    | Numeric |
+| `finish_rate`             | Percentage of races finished                                             | Numeric |
+| `lap_completion_rate`     | Percentage of laps completed                                             | Numeric |
+| `fastest_lap_rate`        | Fastest laps as a percentage of races entered                            | Numeric |
+| `podium_rate`             | Podium finishes as a percentage of races entered                         | Numeric |
+| `points_rate`             | Points finishes as a percentage of races entered                         | Numeric |
+| `consistency_score`       | Consistency in finish positions                                          | Numeric |
+| `qualifying_consistency`  | Consistency in start positions                                           | Numeric |
+| `reliability_score`       | Measures a drivers finish rate with lap completion rate                  | Numeric |
+| `qualifying_vs_race`      | Comparison of qualifying vs finishing positions                          | Numeric |
+| `championship_impact`     | How strongly the driver contributed to the championship outcome          | Numeric |
+| `race_improvement`        | Average improvement from start to finish positions                       | Numeric |
+| `driver_retained`         | Whether the driver was retained by the team for the next season          | Bool    |
