@@ -22,4 +22,4 @@ This repository contains 3 main folders: data, docs, and notebooks.
 
 This project uses data scraped from the [Official Formula 1 Results Website](https://www.formula1.com/en/results/2025/races) for years 1950-2024. It combines race results, starting grid, fastest laps, pit stop summary, and driver information to create a comprehensive dataset. This is then cleaned and aggregated to yield a [final analysis dataset](data/final/f1_final.csv).
 
-***Data dictionary** and other data information can be found in the the data folder README*
+***Data dictionary** and other data information can be found in the the [data folder README](data/README.md)*
