@@ -15,6 +15,8 @@ This folder contains the various stages of CSVs used in the analysis and cleanin
 
 - Data was scraped from all races years 1950 - 2024
 
+- Specific scraping links can be found in the raw folder README
+
 ### Final Analysis Data
 
 - The final analysis data contains 3510 rows and 50 features. Each row represents a driver's aggregated performance across all races in a given season. Many of the features are engineered based on existing columns to improve machine learning and other analysis. 
