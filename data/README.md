@@ -67,7 +67,7 @@ This folder contains the various stages of CSVs used in the analysis and cleanin
 | `total_laps_completed`    | Number of laps completed                                                 | Numeric |
 | `total_laps`              | Total laps possible                                                      | Numeric |
 | `total_fastest_laps`      | Number of fastest laps earned                                            | Numeric |
-| `CLAS_total`              | Number of classified finishes                                            | Numeric |
+| `CLAS_total`              | Number of Classified finishes                                            | Numeric |
 | `DNF_total`               | Number of Did Not Finish results                                         | Numeric |
 | `DNS_total`               | Number of Did Not Start results                                          | Numeric |
 | `DQ_total`                | Number of Disqualified results                                           | Numeric |
