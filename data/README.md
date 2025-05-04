@@ -56,7 +56,7 @@ This folder contains the various stages of CSVs used in the analysis and cleanin
 | `std_finish_pos`          | Standard deviation of finishing positions                                | Numeric |
 | `best_finish_pos`         | Best race finish                                                         | Numeric |
 | `worst_finish_pos`        | Worst race finish                                                        | Numeric |
-| `total_pos_gain`          | Total positions gained from start to finish across all races             | Numeric |
+| `total_pos_gain`          | Positions gained from start to finish across all races                   | Numeric |
 | `avg_pos_gain`            | Average position gain per race                                           | Numeric |
 | `total_points`            | Total points scored                                                      | Numeric |
 | `avg_points_per_race`     | Average points scored per race                                           | Numeric |
@@ -89,6 +89,6 @@ This folder contains the various stages of CSVs used in the analysis and cleanin
 | `qualifying_consistency`  | Consistency in start positions                                           | Numeric |
 | `reliability_score`       | Measures a drivers finish rate with lap completion rate                  | Numeric |
 | `qualifying_vs_race`      | Comparison of qualifying vs finishing positions                          | Numeric |
-| `championship_impact`     | How strongly the driver contributed to the championship outcome          | Numeric |
+| `championship_impact`     | Strength of contribution to the championship outcome                     | Numeric |
 | `race_improvement`        | Average improvement from start to finish positions                       | Numeric |
-| `driver_retained`         | Whether the driver was retained by the team for the next season          | Bool    |
+| `driver_retained`         | Driver retained indication                                               | Bool    |

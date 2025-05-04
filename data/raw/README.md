@@ -23,7 +23,7 @@ This folder contains raw CSVs directly from scraping. These files were all merge
 | `races_fastest_laps.csv` | Fastest lap for each race                      | `race_url`, `driver`, `fastest_lap`                                                       | [Fastest Laps (Bahrain 2024)](https://www.formula1.com/en/results/2024/races/1229/bahrain/fastest-laps)
 | `races_pits.csv`         | Total pit stop count for each driver in a race | `race_url`, `driver`, `pit_count`                                                         | [Pit Stop Summary (Bahrain 2024)](https://www.formula1.com/en/results/2024/races/1229/bahrain/pit-stop-summary)
 | `races_results_raw.csv`  | Finishing data for each driver in a race       | `race_url`, `end_position`, `driver`, `team_name`, `laps_completed`, `time_gap`, `points` | [Race Result (Bahrain 2024)](https://www.formula1.com/en/results/2024/races/1229/bahrain/race-result)
-| `races_start.csv`        | Starting data for each driver in a race        | `race_url`, `start_position`, `driver`, `teamn_name`, `qualifying_time`                   | [Starting Grid (Bahrain 2024)](https://www.formula1.com/en/results/2024/races/1229/bahrain/starting-grid)
+| `races_start.csv`        | Starting data for each driver in a race        | `race_url`, `start_position`, `driver`, `team_name`, `qualifying_time`                   | [Starting Grid (Bahrain 2024)](https://www.formula1.com/en/results/2024/races/1229/bahrain/starting-grid)
 | `races_winner.csv`       | Winning driver data for each race              | `race_url`, `year`, `race`, `round`, `date`, `winner`, `team_name`, `laps`, `total_time`  | [Results (2024)](https://www.formula1.com/en/results/2024/races)
 
 *Scraping was done for all races years 1950 - 2024*
