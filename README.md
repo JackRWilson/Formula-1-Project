@@ -7,7 +7,7 @@
   - [intermediate](data/intermediate/README.md) - Merged or cleaned transitional data
   - [final](data/final/README.md) - Final datasets used for analysis
 - [docs](docs/README.md) - Project proposal, final report, and presentation materials
-- [notebooks](notebooks/README.md) - Jupyter Notebook for scraping, cleaning, and modeling
+- [notebooks](notebooks/README.md) - Jupyter Notebooks for scraping, cleaning, and analysis
 
 # Page Contents
 
@@ -33,7 +33,7 @@ This repository contains 3 main folders: data, docs, and notebooks.
 | ----------- | ------------------------------------------------------------------------------------------------ | -------------------------------- |
 | `data`      | Contains all raw, intermediate, and final CSV files used for machine learning and other analysis | [data](data/README.md)           |
 | `docs`      | Contains proposal, check-in, and final report documents                                          | [docs](docs/README.md)           |
-| `notebooks` | Contains the Jupyter Notebook used for scraping, cleaning, and analysis                          | [notebooks](notebooks/README.md) |
+| `notebooks` | Contains the Jupyter Notebooks used for scraping, cleaning, and analysis                          | [notebooks](notebooks/README.md) |
 
 # Data Overview
 

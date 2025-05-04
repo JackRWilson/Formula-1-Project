@@ -7,7 +7,7 @@
   - [intermediate](../../data/intermediate/README.md) - Merged or cleaned transitional data
   - [final](../../data/final/README.md) - Final datasets used for analysis
 - [docs](../../docs/README.md) - Project proposal, final report, and presentation materials
-- [notebooks](../../notebooks/README.md) - Jupyter Notebook for scraping, cleaning, and modeling
+- [notebooks](../../notebooks/README.md) - Jupyter Notebooks for scraping, cleaning, and analysis
 
 # Page Contents
 
